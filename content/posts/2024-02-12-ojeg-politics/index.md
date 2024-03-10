@@ -3,6 +3,7 @@ title: "Ojol Politics"
 date: 2024-02-12
 tags: ["en", "pemilu"]
 hideSummary: true
+draft: true
 ---
 
 I have talked with a Gojek driver.

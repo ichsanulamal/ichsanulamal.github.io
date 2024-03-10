@@ -3,6 +3,7 @@ title: "Berpemilu dengan Hoream"
 date: 2024-02-11
 tags: ["id", "pemilu"]
 hideSummary: true
+draft: true
 ---
 
 ## review web kpu
