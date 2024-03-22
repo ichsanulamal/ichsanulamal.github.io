@@ -3,6 +3,7 @@ title: "Curse of Knowledge Bias: My Love-Hate Relationship with Project Manageme
 date: 2024-02-18
 tags: ["en", "project management", "information systems"]
 hideSummary: true
+draft: true
 ---
 
 Before, as an IS student, project management is something I've taken for granted.
