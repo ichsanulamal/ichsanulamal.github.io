@@ -1,8 +1,10 @@
 baseURL: "https://ichsanulamal.github.io"
-title: Blog
+title: Ichsanul Amal's Blog
 paginattion:
   pagerSize: 10
 theme: PaperMod
+
+googleAnalytics: G-DWVKN2B8QN
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -114,10 +116,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+    #   weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
