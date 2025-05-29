@@ -10,6 +10,23 @@ hideSummary: true
 
 ## Things I Wish Existed
 
+**Scarcity is still the defining factor for many key resources in most aspects of life, at least for now.**
+
+But with the recent GPT boom, even without reaching full AGI, the gap in knowledge scarcity is already starting to shrink.
+
+I believe AGI will speed up progress in nearly every field, and it could play a big role in reducing scarcity across the board.
+
+Of course, things like energy and raw materials from the Earth are still hard to replicate. We'd need some kind of modern-day alchemist for that. And honestly, I think AI could become something close to that.
+
+There are risks too, especially the existential ones. AI has completely changed the game when it comes to creating art—something humans have always been proud of, sometimes arrogantly so. We've often believed that only we can make meaningful art or feel deep emotion. But now AI can mimic us, and sometimes it even creates something more creative, just by relying on math and probability. I’m exaggerating a bit here, mostly because I’m terrible at math, but it’s still kind of mind-blowing that we’ve gotten to this point.
+
+What I’m writing here is really a mix of what I wish existed before the GPT boom and what’s possible now.
+This feels like the time when Pramoedya Ananta Toer, in *Bumi Manusia*, was amazed by the invention of the bicycle. But GPT? That’s just the beginning.
+
+I think the future will be both incredible and a little eerie.
+
+So here’s my list of what I wish existed in this world:
+
 ### Mosque Social Credit System
 
 This is something I wrote in college and tried to share with some friends, but I don’t think anyone read it—most probably didn’t feel it was relevant.
@@ -20,7 +37,7 @@ The idea is basically AI totalitarianism, but in a more open way. I wasted a bit
 
 You can check out the full writing here: \[link]
 
----
+
 
 ### Ethical Buying Platform
 
@@ -35,7 +52,7 @@ I believe most people aren’t aware of this. That’s why I wish for a media/pl
 
 The platform could allow users to scan items they’re buying (trickier in traditional markets—another reason we need modernization for better data reliability). Then, it would show historical controversies or scandals related to the product or company. Scoring systems could be introduced, though creating fair methodologies would be challenging.
 
----
+
 
 ### Personal Agent to Track Everything
 
@@ -43,7 +60,7 @@ I find it hard to monitor my actions and body. Journaling wastes time since I on
 
 It would essentially be structured journaling via sensors—clean data that connects to AI. Then, it could help us align with our goals and guide us. It's an interesting problem to solve, but I'm too lazy to build it.
 
----
+
 
 ### Auto-Warist
 
@@ -53,7 +70,7 @@ I need a tool to track my family and friends. If I’m proven dead or inactive f
 
 Ideally, the assets would be distributed according to Islamic inheritance law or a custom will (wasiat), assigning specific portions to specific people. Of course, there's a lot to build.
 
----
+
 
 ### Family Tree
 
