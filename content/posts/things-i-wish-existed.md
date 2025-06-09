@@ -62,7 +62,7 @@ It would essentially be structured journaling via sensors—clean data that conn
 
 ### Auto-Warist
 
-I think I’ll die young. Many of my assets are decentralized, with no central authority. I’m afraid they’ll be lost forever without benefiting anyone.
+Many of my assets are decentralized, with no central authority. I’m afraid they’ll be lost forever without benefiting anyone.
 
 I need a tool to track my family and friends. If I’m proven dead or inactive for a certain period, it should automatically transfer my assets—account access, passwords, cloud storage, even physical property. It could use blockchain (yes, I know, buzzword), though today’s blockchains are expensive and wasteful. Still, this is a valid use case.
 
@@ -72,7 +72,7 @@ Ideally, the assets would be distributed according to Islamic inheritance law or
 
 ### Family Tree
 
-I want access to Facebook’s social graph—seriously. When my extended family started an Instagram page, I started thinking about this.
+I really want access to Facebook’s social graph. When my extended family started an Instagram page, I started thinking about this.
 
 One problem today is that young people feel lost, overwhelmed by too many choices. Imagine a detailed lineage database that goes down to individual dreams, experiences, and aspirations—even the “dead dreams” of ancestors.
 
